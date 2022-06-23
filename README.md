@@ -1,6 +1,6 @@
 ## Olá, eu sou o Thales :sunglasses::fire:	
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/thalesjab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesjab&show_icons=true&theme=slateorange&hide=contribs,issues=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesjab&layout=compact&langs_count=7&theme=slateorange"/>
