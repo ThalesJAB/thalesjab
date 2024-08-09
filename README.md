@@ -23,8 +23,8 @@
   
 ### :information_source: Sobre o perfil
 <div align = "justify">
-<p>Aqui você vai encontrar alguns projetos, a maioria feitos em Java e tambem daqui pra frente projetos em Angular, tecnologia que atualmente estou estudando, com o objetivo de me tornar cada vez mais um Desenvolvedor Fullstack. </p>
- </div>
+<p>Aqui você vai encontrar alguns projetos, a maioria feitos em Java e alguns em Ruby </p>
+</div>
  
  ##
  
