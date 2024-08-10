@@ -23,7 +23,9 @@
   
 ### :information_source: Sobre o perfil
 <div align = "justify">
-<p>Aqui você vai encontrar alguns projetos, a maioria feitos em Java e alguns em Ruby </p>
+<p>👨‍💻 Atualmente, trabalho como Desenvolvedor Back-end, utilizando principalmente a linguagem Ruby, o banco de dados não relacional MongoDB, entre outras tecnologias.</p>
+<p>:mag: Aqui você vai encontrar alguns projetos, a maioria feitos em Java e alguns em Ruby</p>
+
 </div>
  
  ##
@@ -31,6 +33,4 @@
 <div> 
   <a href = "mailto:thalesjoseaguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://linkedin.com/in/thalesjaguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![snake gif](https://github.com/thalesjab/thalesjab/blob/output/github-contribution-grid-snake.svg)  
 </div>
