@@ -1,11 +1,5 @@
 ## Olá, bem vindo(a) ao meu perfil :sunglasses::fire:	
 
-<div align="left">
-  <a href="https://github.com/thalesjab"></a>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=thalesjab&show_icons=true&theme=vision-friendly-dark&hide=contribs,issues=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesjab&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Thales-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
